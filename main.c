@@ -4,6 +4,6 @@
 #include <stdio.h>
 
 int main(){
-    printf("Bom dia Mundo");
+    printf("Bom dia Mundos");
     return 0;
 }
